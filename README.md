@@ -34,7 +34,7 @@ Some of them are plain quotes, but there are also sentences paraphrased by me.
 
 ##Design patterns
 - Do not make new problems only to solve them by applying design pattern
-- Singleton is OK if it does only one of those two things: reading or writing
+- Singleton is OK if it does only one of those two things at a time: reading or writing
 - Strategy and factory are the best friends
 - Inject strategy by DI unless it needs to be changed often. Then use factory.
 - Decorators can be done by using aspect programming.
