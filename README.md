@@ -1,7 +1,6 @@
 # BestPractices
-This is the mind dump place to store the best and most important software development practices I find every day.
+This is the mind dump place to store my favorite software development practices, rules of thumb and quotes (some of them paraphrased by me).
 The source of those practices are books, talks, articles and many more.
-Some of them are plain quotes, but there are also sentences paraphrased by me.
 
 ##Clean code
 - Focus on readability (for a sake of other team members), not on perfection.
@@ -43,3 +42,5 @@ Some of them are plain quotes, but there are also sentences paraphrased by me.
 ##SOLID:
 - Liskov - if you surprise developer - know that something bad happens.
 
+##Planning
+- Hofstadter's Law: It always takes longer than you expect, even when you take into account [Hofstadter's Law](http://en.wikipedia.org/wiki/Hofstadter%27s_law).
