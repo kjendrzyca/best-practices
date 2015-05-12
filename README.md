@@ -21,6 +21,11 @@ The source of those practices are books, talks, articles and many more.
     - don't commit early unless you know you are going to need it
     - think about event horizon - how soon the dumb thing you did is going to be irreversible
 - Push often and commit often - [make the sausage](https://sethrobertson.github.io/GitBestPractices/).
+- If you have generic repositories it means that you need a Query
+- Be DRY until it starts to trouble you
+- DRY can stiffen your code (the bad way)
+- "It looks the same but it's not the same"
+- "I wasted time perfecting and complicating a straightforward module so that you could waste your time understanding it"
 
 ##Testing
 - During writing test initialize only what is necessary to make it pass
@@ -30,6 +35,10 @@ The source of those practices are books, talks, articles and many more.
 - Write test instead of debugging
 - Clean code principles also apply to tests
 - Frameworks can be wrapped to make them testable
+- Fake it till you make it
+
+##QA
+- QA is should prevent bugs not find them
 
 ##Design patterns
 - Do not make new problems only to solve them by applying design pattern
@@ -44,3 +53,11 @@ The source of those practices are books, talks, articles and many more.
 
 ##Planning
 - Hofstadter's Law: It always takes longer than you expect, even when you take into account [Hofstadter's Law](http://en.wikipedia.org/wiki/Hofstadter%27s_law).
+
+##Improvement
+- If you put yourself in the way of unusual experiences you may discover that there are things you really enjoy
+- The better you understand what you are doing, the better you will do it
+- "I was a lead dev so I did couple of code review more than the others"
+- Fake it till you make it
+- Give and get feedback often (it's like commit often but with people)
+- Communication is like a driving car - you don't want to cause an accident
