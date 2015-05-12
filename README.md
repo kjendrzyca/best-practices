@@ -31,14 +31,14 @@ The source of those practices are books, talks, articles and many more.
 - During writing test initialize only what is necessary to make it pass
 - Use fluent api / builder to build complicated objects
 - **Tests are communication tools**
-- **During writing the tests you should still thing**
+- **During writing the tests you should still think**
 - Write test instead of debugging
 - Clean code principles also apply to tests
 - Frameworks can be wrapped to make them testable
 - Fake it till you make it
 
 ##QA
-- QA is should prevent bugs not find them
+- **QA is should prevent bugs not find them**
 
 ##Design patterns
 - Do not make new problems only to solve them by applying design pattern
