@@ -26,6 +26,7 @@ The source of those practices are books, talks, articles and many more.
 - DRY can stiffen your code (the bad way)
 - "It looks the same but it's not the same"
 - "I wasted time perfecting and complicating a straightforward module so that you could waste your time understanding it"
+- "If you only have a hammer, you tend to see every problem as a nail"
 
 ##Testing
 - During writing test initialize only what is necessary to make it pass
@@ -51,6 +52,10 @@ The source of those practices are books, talks, articles and many more.
 ##SOLID:
 - Liskov - if you surprise developer - know that something bad happens.
 
+##Architecture
+- I define architecture as a word we use when we want to talk about design but want to puff it up to make it sound important
+- Making something easy to change makes the overall system a little more complex, and making everything easy to change makes the entire system very complex
+
 ##Planning
 - Hofstadter's Law: It always takes longer than you expect, even when you take into account [Hofstadter's Law](http://en.wikipedia.org/wiki/Hofstadter%27s_law).
 
@@ -61,3 +66,7 @@ The source of those practices are books, talks, articles and many more.
 - Fake it till you make it
 - Give and get feedback often (it's like commit often but with people)
 - Communication is like a driving car - you don't want to cause an accident
+- If you want to master something you need to teach it
+
+##Other
+- Java and .Net have been designed to survive enterprise development
