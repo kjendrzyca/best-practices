@@ -67,6 +67,7 @@ The source of those practices are books, talks, articles and many more.
 - Give and get feedback often (it's like commit often but with people)
 - Communication is like a driving car - you don't want to cause an accident
 - If you want to master something you need to teach it
+- You should be spending your time building stuff, not studying for multiple choice tests
 
 ##Other
 - Java and .Net have been designed to survive enterprise development
