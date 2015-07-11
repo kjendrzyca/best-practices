@@ -70,3 +70,4 @@ The source of those practices are books, talks, articles and many more.
 
 ##Other
 - Java and .Net have been designed to survive enterprise development
+- Brilliant software engineers will follow bad plans put forth by people in power
