@@ -17,6 +17,8 @@ The source of those practices are books, talks, articles and many more.
 - Complexity is the default state - it grows one day at a time
 - Consistency at scale is a daily choice - agree on idioms and guiding principles
 - Strive for simplicity - choose tools and techniques that make it easier because "it really shouldn't be this difficult"
+- Simple design is not stupid design
+
 - YAGNI:
     - don't commit early unless you know you are going to need it
     - think about event horizon - how soon the dumb thing you did is going to be irreversible
@@ -37,6 +39,7 @@ The source of those practices are books, talks, articles and many more.
 - Clean code principles also apply to tests
 - Frameworks can be wrapped to make them testable
 - Fake it till you make it
+- Use business vocabulary everywhere, even in the unit tests
 
 ##QA
 - **QA is should prevent bugs not find them**
@@ -68,10 +71,12 @@ The source of those practices are books, talks, articles and many more.
 - Communication is like a driving car - you don't want to cause an accident
 - If you want to master something you need to teach it
 - You should be spending your time building stuff, not studying for multiple choice tests
+- "Nobody wants developers to reinvent the wheel (again), but reading about how a wheel works is a poor substitute for the experience of driving around on a new wheels of you own creation"
 
 ##Other
 - Java and .Net have been designed to survive enterprise development
 - Brilliant software engineers will follow bad plans put forth by people in power
+- All code (prodution, tests) is a technical debt
 
 ## [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 - Beautiful is better than ugly.
