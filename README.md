@@ -58,11 +58,15 @@ The source of those practices are books, talks, articles and many more.
 ##Architecture
 - I define architecture as a word we use when we want to talk about design but want to puff it up to make it sound important
 - Making something easy to change makes the overall system a little more complex, and making everything easy to change makes the entire system very complex
+- Shift mindset from fail-safe design to safe-to-fail experimentation
+- Find at least one alternative
+- Coupling is the biggest thing that causes fear
 
 ##Planning
 - Hofstadter's Law: It always takes longer than you expect, even when you take into account [Hofstadter's Law](http://en.wikipedia.org/wiki/Hofstadter%27s_law).
 
 ##Improvement
+- Read code
 - If you put yourself in the way of unusual experiences you may discover that there are things you really enjoy
 - The better you understand what you are doing, the better you will do it
 - "I was a lead dev so I did couple of code review more than the others"
@@ -72,6 +76,13 @@ The source of those practices are books, talks, articles and many more.
 - If you want to master something you need to teach it
 - You should be spending your time building stuff, not studying for multiple choice tests
 - "Nobody wants developers to reinvent the wheel (again), but reading about how a wheel works is a poor substitute for the experience of driving around on a new wheels of you own creation"
+- Optimize for team productivity
+- Choose a team where you are the worst of them
+- Find a mentor, be a mentor
+
+##Open Source
+- Put initial version on-line
+- "No contribution is too small"
 
 ##Other
 - Java and .Net have been designed to survive enterprise development
