@@ -1,10 +1,9 @@
 # BestPractices
-This is the mind dump place to store my favorite software development practices, rules of thumb and quotes (some of them paraphrased by me).
-The source of those practices are books, talks, articles and many more.
+Mind dump for my favorite software development practices, rules of thumb and quotes.
 
 ##Clean code
 - Focus on readability (for a sake of other team members), not on perfection.
-- If something is too big for your head you cannot reason about it ~Dan North
+- "If something is too big for your head you cannot reason about it"
 - Minimize 'Cognitive Load' - thinking too much over a simple thing.
 - "See what's really there" - if there is an inconsistency:
     - it may be a special case
@@ -42,12 +41,12 @@ The source of those practices are books, talks, articles and many more.
 - Use business vocabulary everywhere, even in the unit tests
 
 ##QA
-- **QA is should prevent bugs not find them**
+- **QA should prevent bugs not find them**
 
 ##Design patterns
 - Do not make new problems only to solve them by applying design pattern
 - Singleton is OK if it does only one of those two things at a time: reading or writing
-- Strategy and factory are the best friends
+- Strategy and factory patterns are the best friends
 - Inject strategy by DI unless it needs to be changed often. Then use factory.
 - Decorators can be done by using aspect programming.
 - Do not use decorator if it changes completely the behavior of decorating object.
@@ -87,7 +86,7 @@ The source of those practices are books, talks, articles and many more.
 ##Other
 - Java and .Net have been designed to survive enterprise development
 - Brilliant software engineers will follow bad plans put forth by people in power
-- All code (prodution, tests) is a technical debt
+- All code (production, tests) is a technical debt
 
 ## [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 - Beautiful is better than ugly.
