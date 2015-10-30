@@ -1,4 +1,3 @@
-# BestPractices
 Mind dump for my favorite software development practices, rules of thumb and quotes.
 
 ##Clean code
