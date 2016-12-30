@@ -1,6 +1,8 @@
 Mind dump for my favorite software development practices, rules of thumb and quotes.
 
-##Clean code
+## Clean code
+
+- “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 - Focus on readability (for a sake of other team members), not on perfection.
 - "If something is too big for your head you cannot reason about it"
 - Minimize 'Cognitive Load' - thinking too much over a simple thing.
@@ -28,21 +30,24 @@ Mind dump for my favorite software development practices, rules of thumb and quo
 - "I wasted time perfecting and complicating a straightforward module so that you could waste your time understanding it"
 - "If you only have a hammer, you tend to see every problem as a nail"
 
-##Testing
-- During writing test initialize only what is necessary to make it pass
+## Testing
+
+- Initialize only what is necessary to make the test pass
 - Use fluent api / builder to build complicated objects
 - **Tests are communication tools**
-- **During writing the tests you should still think**
+- **You should still think when writing the tests**
 - Write test instead of debugging
 - Clean code principles also apply to tests
 - Frameworks can be wrapped to make them testable
 - Fake it till you make it
 - Use business vocabulary everywhere, even in the unit tests
 
-##QA
+## QA
+
 - **QA should prevent bugs not find them**
 
-##Design patterns
+## Design patterns
+
 - Do not make new problems only to solve them by applying design pattern
 - Singleton is OK if it does only one of those two things at a time: reading or writing
 - Strategy and factory patterns are the best friends
@@ -50,20 +55,24 @@ Mind dump for my favorite software development practices, rules of thumb and quo
 - Decorators can be done by using aspect programming.
 - Do not use decorator if it changes completely the behavior of decorating object.
 
-##SOLID:
+## SOLID:
+
 - Liskov - if you surprise developer - know that something bad happens.
 
-##Architecture
+## Architecture
+
 - I define architecture as a word we use when we want to talk about design but want to puff it up to make it sound important
 - Making something easy to change makes the overall system a little more complex, and making everything easy to change makes the entire system very complex
 - Shift mindset from fail-safe design to safe-to-fail experimentation
 - Find at least one alternative
 - Coupling is the biggest thing that causes fear
 
-##Planning
+## Planning
+
 - Hofstadter's Law: It always takes longer than you expect, even when you take into account [Hofstadter's Law](http://en.wikipedia.org/wiki/Hofstadter%27s_law).
 
-##Improvement
+## Improvement
+
 - Read code
 - If you put yourself in the way of unusual experiences you may discover that there are things you really enjoy
 - The better you understand what you are doing, the better you will do it
@@ -78,11 +87,13 @@ Mind dump for my favorite software development practices, rules of thumb and quo
 - Choose a team where you are the worst of them
 - Find a mentor, be a mentor
 
-##Open Source
+## Open Source
+
 - Put initial version on-line
 - "No contribution is too small"
 
-##Other
+## Other
+
 - Java and .Net have been designed to survive enterprise development
 - Brilliant software engineers will follow bad plans put forth by people in power
 - All code (production, tests) is a technical debt
