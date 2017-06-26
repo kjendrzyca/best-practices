@@ -30,6 +30,10 @@ Mind dump for my favorite software development practices, rules of thumb and quo
 - "I wasted time perfecting and complicating a straightforward module so that you could waste your time understanding it"
 - "If you only have a hammer, you tend to see every problem as a nail"
 
+## Frameworks
+
+- "The framework cannot know how to separate your concerns for you. It should only provide powerful, expressive tools for the user to do it correctly."
+
 ## Testing
 
 - Initialize only what is necessary to make the test pass
