@@ -46,6 +46,10 @@ Mind dump for my favorite software development practices, rules of thumb and quo
 - Fake it till you make it
 - Use business vocabulary everywhere, even in the unit tests
 
+## Debugging
+
+- "If you're good at the debugger it means you spent a lot of time debugging. I don't want you to be good at the debugger."
+
 ## QA
 
 - **QA should prevent bugs not find them**
