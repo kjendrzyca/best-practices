@@ -37,7 +37,6 @@ Mind dump for my favorite software development practices, rules of thumb and quo
 ## Testing
 
 - Initialize only what is necessary to make the test pass
-- Use fluent api / builder to build complicated objects
 - **Tests are communication tools**
 - **You should still think when writing the tests**
 - Write test instead of debugging
